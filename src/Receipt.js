@@ -21,7 +21,7 @@ class Receipt extends React.Component {
     render() {
         return(
             <div>
-                <h1>Kvitto</h1>
+                <h3>Kvitto</h3>
                 <div>
                     <form onSubmit={this.eSubmit}>
                         <p>

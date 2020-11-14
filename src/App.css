@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospaces;
+}
+
+button {
+    background-color: lightgrey;
+}
